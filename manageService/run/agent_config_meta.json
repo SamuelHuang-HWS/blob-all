@@ -1,0 +1,288 @@
+{
+  "keys": "/Users/a58/code/private-project/learn/blob-all/manageService/config/config.default.js",
+  "view": {
+    "defaultViewEngine": "/Users/a58/code/private-project/learn/blob-all/manageService/config/config.default.js",
+    "mapping": {
+      ".tpl": "/Users/a58/code/private-project/learn/blob-all/manageService/config/config.default.js"
+    },
+    "root": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/egg-view/config/config.default.js",
+    "cache": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/egg-view/config/config.local.js",
+    "defaultExtension": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/egg-view/config/config.default.js"
+  },
+  "session": {
+    "maxAge": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/egg-session/config/config.default.js",
+    "key": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/egg-session/config/config.default.js",
+    "httpOnly": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/egg-session/config/config.default.js",
+    "encrypt": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/egg-session/config/config.default.js",
+    "logValue": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/egg-session/config/config.default.js"
+  },
+  "security": {
+    "domainWhiteList": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/egg-security/config/config.default.js",
+    "protocolWhiteList": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/egg-security/config/config.default.js",
+    "defaultMiddleware": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/egg-security/config/config.default.js",
+    "csrf": {
+      "enable": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/egg-security/config/config.default.js",
+      "type": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/egg-security/config/config.default.js",
+      "ignoreJSON": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/egg-security/config/config.default.js",
+      "useSession": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/egg-security/config/config.default.js",
+      "cookieName": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/egg-security/config/config.default.js",
+      "sessionName": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/egg-security/config/config.default.js",
+      "headerName": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/egg-security/config/config.default.js",
+      "bodyName": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/egg-security/config/config.default.js",
+      "queryName": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/egg-security/config/config.default.js",
+      "supportedRequests": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/egg-security/config/config.default.js",
+      "refererWhiteList": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/egg-security/config/config.default.js"
+    },
+    "xframe": {
+      "enable": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/egg-security/config/config.default.js"
+    },
+    "hsts": {
+      "enable": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/egg-security/config/config.local.js",
+      "maxAge": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/egg-security/config/config.default.js",
+      "includeSubdomains": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/egg-security/config/config.default.js"
+    },
+    "dta": {
+      "enable": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/egg-security/config/config.default.js"
+    },
+    "methodnoallow": {
+      "enable": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/egg-security/config/config.default.js"
+    },
+    "noopen": {
+      "enable": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/egg-security/config/config.default.js"
+    },
+    "nosniff": {
+      "enable": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/egg-security/config/config.default.js"
+    },
+    "referrerPolicy": {
+      "enable": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/egg-security/config/config.default.js"
+    },
+    "xssProtection": {
+      "enable": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/egg-security/config/config.default.js"
+    },
+    "csp": {
+      "enable": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/egg-security/config/config.default.js",
+      "policy": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/egg-security/config/config.default.js"
+    },
+    "ssrf": {
+      "ipBlackList": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/egg-security/config/config.default.js",
+      "ipExceptionList": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/egg-security/config/config.default.js",
+      "checkAddress": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/egg-security/config/config.default.js"
+    }
+  },
+  "helper": {
+    "shtml": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/egg-security/config/config.default.js"
+  },
+  "jsonp": {
+    "limit": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/egg-jsonp/config/config.default.js",
+    "callback": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/egg-jsonp/config/config.default.js",
+    "csrf": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/egg-jsonp/config/config.default.js"
+  },
+  "onerror": {
+    "errorPageUrl": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/egg-onerror/config/config.default.js",
+    "templatePath": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/egg-onerror/config/config.default.js"
+  },
+  "i18n": {
+    "defaultLocale": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/egg-i18n/config/config.default.js",
+    "dirs": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/egg-i18n/config/config.default.js",
+    "queryField": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/egg-i18n/config/config.default.js",
+    "cookieField": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/egg-i18n/config/config.default.js",
+    "cookieDomain": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/egg-i18n/config/config.default.js"
+  },
+  "watcher": {
+    "type": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/egg-watcher/config/config.local.js",
+    "eventSources": {
+      "default": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/egg-watcher/config/config.default.js",
+      "development": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/egg-watcher/config/config.default.js"
+    }
+  },
+  "customLogger": {
+    "scheduleLogger": {
+      "consoleLevel": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/egg-schedule/config/config.default.js",
+      "file": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/egg-schedule/config/config.default.js"
+    }
+  },
+  "schedule": {
+    "directory": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/egg-schedule/config/config.default.js"
+  },
+  "multipart": {
+    "mode": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/egg-multipart/config/config.default.js",
+    "autoFields": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/egg-multipart/config/config.default.js",
+    "defaultCharset": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/egg-multipart/config/config.default.js",
+    "defaultParamCharset": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/egg-multipart/config/config.default.js",
+    "fieldNameSize": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/egg-multipart/config/config.default.js",
+    "fieldSize": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/egg-multipart/config/config.default.js",
+    "fields": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/egg-multipart/config/config.default.js",
+    "fileSize": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/egg-multipart/config/config.default.js",
+    "files": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/egg-multipart/config/config.default.js",
+    "fileExtensions": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/egg-multipart/config/config.default.js",
+    "whitelist": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/egg-multipart/config/config.default.js",
+    "allowArrayField": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/egg-multipart/config/config.default.js",
+    "tmpdir": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/egg-multipart/config/config.default.js",
+    "cleanSchedule": {
+      "cron": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/egg-multipart/config/config.default.js",
+      "disable": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/egg-multipart/config/config.default.js"
+    }
+  },
+  "development": {
+    "watchDirs": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/egg-development/config/config.default.js",
+    "ignoreDirs": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/egg-development/config/config.default.js",
+    "fastReady": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/egg-development/config/config.default.js",
+    "reloadOnDebug": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/egg-development/config/config.default.js",
+    "overrideDefault": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/egg-development/config/config.default.js",
+    "overrideIgnore": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/egg-development/config/config.default.js"
+  },
+  "logrotator": {
+    "filesRotateByHour": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/egg-logrotator/config/config.default.js",
+    "maxFileSize": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/egg-logrotator/config/config.default.js",
+    "maxFiles": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/egg-logrotator/config/config.default.js",
+    "rotateDuration": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/egg-logrotator/config/config.default.js",
+    "maxDays": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/egg-logrotator/config/config.default.js"
+  },
+  "static": {
+    "prefix": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/egg-static/config/config.default.js",
+    "dir": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/egg-static/config/config.default.js",
+    "dynamic": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/egg-static/config/config.default.js",
+    "preload": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/egg-static/config/config.default.js",
+    "buffer": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/egg-static/config/config.default.js",
+    "maxFiles": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/egg-static/config/config.default.js"
+  },
+  "nunjucks": {
+    "autoescape": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/.pnpm/egg-view-nunjucks@2.3.0/node_modules/egg-view-nunjucks/config/config.default.js",
+    "throwOnUndefined": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/.pnpm/egg-view-nunjucks@2.3.0/node_modules/egg-view-nunjucks/config/config.default.js",
+    "trimBlocks": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/.pnpm/egg-view-nunjucks@2.3.0/node_modules/egg-view-nunjucks/config/config.default.js",
+    "lstripBlocks": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/.pnpm/egg-view-nunjucks@2.3.0/node_modules/egg-view-nunjucks/config/config.default.js",
+    "cache": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/.pnpm/egg-view-nunjucks@2.3.0/node_modules/egg-view-nunjucks/config/config.local.js"
+  },
+  "env": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/.pnpm/egg@3.17.4/node_modules/egg/config/config.default.js",
+  "name": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/.pnpm/egg@3.17.4/node_modules/egg/config/config.default.js",
+  "cookies": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/.pnpm/egg@3.17.4/node_modules/egg/config/config.default.js",
+  "proxy": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/.pnpm/egg@3.17.4/node_modules/egg/config/config.default.js",
+  "maxIpsCount": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/.pnpm/egg@3.17.4/node_modules/egg/config/config.default.js",
+  "maxProxyCount": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/.pnpm/egg@3.17.4/node_modules/egg/config/config.default.js",
+  "protocolHeaders": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/.pnpm/egg@3.17.4/node_modules/egg/config/config.default.js",
+  "ipHeaders": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/.pnpm/egg@3.17.4/node_modules/egg/config/config.default.js",
+  "hostHeaders": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/.pnpm/egg@3.17.4/node_modules/egg/config/config.default.js",
+  "pkg": {
+    "name": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/.pnpm/egg@3.17.4/node_modules/egg/config/config.default.js",
+    "version": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/.pnpm/egg@3.17.4/node_modules/egg/config/config.default.js",
+    "description": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/.pnpm/egg@3.17.4/node_modules/egg/config/config.default.js",
+    "main": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/.pnpm/egg@3.17.4/node_modules/egg/config/config.default.js",
+    "scripts": {
+      "dev": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/.pnpm/egg@3.17.4/node_modules/egg/config/config.default.js",
+      "test": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/.pnpm/egg@3.17.4/node_modules/egg/config/config.default.js"
+    },
+    "author": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/.pnpm/egg@3.17.4/node_modules/egg/config/config.default.js",
+    "license": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/.pnpm/egg@3.17.4/node_modules/egg/config/config.default.js",
+    "dependencies": {
+      "egg": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/.pnpm/egg@3.17.4/node_modules/egg/config/config.default.js",
+      "egg-view-nunjucks": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/.pnpm/egg@3.17.4/node_modules/egg/config/config.default.js"
+    },
+    "devDependencies": {
+      "egg-bin": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/.pnpm/egg@3.17.4/node_modules/egg/config/config.default.js"
+    }
+  },
+  "baseDir": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/.pnpm/egg@3.17.4/node_modules/egg/config/config.default.js",
+  "HOME": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/.pnpm/egg@3.17.4/node_modules/egg/config/config.default.js",
+  "rundir": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/.pnpm/egg@3.17.4/node_modules/egg/config/config.default.js",
+  "dump": {
+    "ignore": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/.pnpm/egg@3.17.4/node_modules/egg/config/config.default.js",
+    "timing": {
+      "slowBootActionMinDuration": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/.pnpm/egg@3.17.4/node_modules/egg/config/config.default.js"
+    }
+  },
+  "confusedConfigurations": {
+    "bodyparser": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/.pnpm/egg@3.17.4/node_modules/egg/config/config.default.js",
+    "notFound": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/.pnpm/egg@3.17.4/node_modules/egg/config/config.default.js",
+    "sitefile": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/.pnpm/egg@3.17.4/node_modules/egg/config/config.default.js",
+    "middlewares": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/.pnpm/egg@3.17.4/node_modules/egg/config/config.default.js",
+    "httpClient": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/.pnpm/egg@3.17.4/node_modules/egg/config/config.default.js"
+  },
+  "notfound": {
+    "pageUrl": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/.pnpm/egg@3.17.4/node_modules/egg/config/config.default.js"
+  },
+  "siteFile": {
+    "/favicon.ico": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/.pnpm/egg@3.17.4/node_modules/egg/config/config.default.js",
+    "cacheControl": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/.pnpm/egg@3.17.4/node_modules/egg/config/config.default.js"
+  },
+  "bodyParser": {
+    "enable": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/.pnpm/egg@3.17.4/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/.pnpm/egg@3.17.4/node_modules/egg/config/config.default.js",
+    "formLimit": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/.pnpm/egg@3.17.4/node_modules/egg/config/config.default.js",
+    "jsonLimit": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/.pnpm/egg@3.17.4/node_modules/egg/config/config.default.js",
+    "textLimit": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/.pnpm/egg@3.17.4/node_modules/egg/config/config.default.js",
+    "strict": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/.pnpm/egg@3.17.4/node_modules/egg/config/config.default.js",
+    "queryString": {
+      "arrayLimit": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/.pnpm/egg@3.17.4/node_modules/egg/config/config.default.js",
+      "depth": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/.pnpm/egg@3.17.4/node_modules/egg/config/config.default.js",
+      "parameterLimit": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/.pnpm/egg@3.17.4/node_modules/egg/config/config.default.js"
+    },
+    "onerror": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/.pnpm/egg@3.17.4/node_modules/egg/config/config.default.js"
+  },
+  "logger": {
+    "dir": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/.pnpm/egg@3.17.4/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/.pnpm/egg@3.17.4/node_modules/egg/config/config.default.js",
+    "env": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/.pnpm/egg@3.17.4/node_modules/egg/config/config.default.js",
+    "level": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/.pnpm/egg@3.17.4/node_modules/egg/config/config.default.js",
+    "consoleLevel": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/.pnpm/egg@3.17.4/node_modules/egg/config/config.default.js",
+    "disableConsoleAfterReady": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/.pnpm/egg@3.17.4/node_modules/egg/config/config.default.js",
+    "outputJSON": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/.pnpm/egg@3.17.4/node_modules/egg/config/config.default.js",
+    "buffer": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/.pnpm/egg@3.17.4/node_modules/egg/config/config.default.js",
+    "appLogName": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/.pnpm/egg@3.17.4/node_modules/egg/config/config.default.js",
+    "coreLogName": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/.pnpm/egg@3.17.4/node_modules/egg/config/config.default.js",
+    "agentLogName": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/.pnpm/egg@3.17.4/node_modules/egg/config/config.default.js",
+    "errorLogName": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/.pnpm/egg@3.17.4/node_modules/egg/config/config.default.js",
+    "coreLogger": {
+      "consoleLevel": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/.pnpm/egg@3.17.4/node_modules/egg/config/config.local.js"
+    },
+    "allowDebugAtProd": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/.pnpm/egg@3.17.4/node_modules/egg/config/config.default.js",
+    "enablePerformanceTimer": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/.pnpm/egg@3.17.4/node_modules/egg/config/config.default.js",
+    "enableFastContextLogger": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/.pnpm/egg@3.17.4/node_modules/egg/config/config.default.js"
+  },
+  "httpclient": {
+    "enableDNSCache": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/.pnpm/egg@3.17.4/node_modules/egg/config/config.default.js",
+    "dnsCacheLookupInterval": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/.pnpm/egg@3.17.4/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/.pnpm/egg@3.17.4/node_modules/egg/config/config.default.js",
+    "request": {
+      "timeout": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/.pnpm/egg@3.17.4/node_modules/egg/config/config.default.js"
+    },
+    "httpAgent": {
+      "keepAlive": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/.pnpm/egg@3.17.4/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/.pnpm/egg@3.17.4/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/.pnpm/egg@3.17.4/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/.pnpm/egg@3.17.4/node_modules/egg/config/config.default.js"
+    },
+    "httpsAgent": {
+      "keepAlive": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/.pnpm/egg@3.17.4/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/.pnpm/egg@3.17.4/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/.pnpm/egg@3.17.4/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/.pnpm/egg@3.17.4/node_modules/egg/config/config.default.js"
+    },
+    "useHttpClientNext": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/.pnpm/egg@3.17.4/node_modules/egg/config/config.default.js"
+  },
+  "meta": {
+    "enable": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/.pnpm/egg@3.17.4/node_modules/egg/config/config.default.js",
+    "logging": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/.pnpm/egg@3.17.4/node_modules/egg/config/config.default.js"
+  },
+  "coreMiddleware": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/.pnpm/egg@3.17.4/node_modules/egg/config/config.default.js",
+  "workerStartTimeout": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/.pnpm/egg@3.17.4/node_modules/egg/config/config.default.js",
+  "serverTimeout": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/.pnpm/egg@3.17.4/node_modules/egg/config/config.default.js",
+  "cluster": {
+    "listen": {
+      "path": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/.pnpm/egg@3.17.4/node_modules/egg/config/config.default.js",
+      "port": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/.pnpm/egg@3.17.4/node_modules/egg/config/config.default.js",
+      "hostname": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/.pnpm/egg@3.17.4/node_modules/egg/config/config.default.js"
+    }
+  },
+  "clusterClient": {
+    "maxWaitTime": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/.pnpm/egg@3.17.4/node_modules/egg/config/config.default.js",
+    "responseTimeout": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/.pnpm/egg@3.17.4/node_modules/egg/config/config.default.js"
+  },
+  "onClientError": "/Users/a58/code/private-project/learn/blob-all/manageService/node_modules/.pnpm/egg@3.17.4/node_modules/egg/config/config.default.js"
+}
